@@ -1,0 +1,5 @@
+river_id,river_name,downstream_id
+평창강,평창강,남한강
+동강,동강,남한강
+남한강,남한강,한강
+한강,한강,OUTLET
